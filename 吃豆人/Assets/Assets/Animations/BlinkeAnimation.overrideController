@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BlinkeAnimation
+  m_Controller: {fileID: 9100000, guid: 7fa7b3356bd193e4d8f5b61bae3f9905, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 40dbb88c2ad7e6a43a8c4873eb99e163, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dab43cbff48e10641b4aebcbdf064982, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 845bc52b849c69948997b5b3242e47a7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5af3b02703e6d98469b0f285ca88cccf, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1c5356f122259f149a6b28713a06bdeb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cba7cb2a8e973634ea8b27b1577d4f93, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5174617c128df904eba087d539e5f7ed, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f412be1333db4cf4db29bc3fb75da35b, type: 2}
